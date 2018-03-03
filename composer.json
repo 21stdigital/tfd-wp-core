@@ -1,0 +1,19 @@
+{
+    "name": "tfd/wp-helper",
+    "description": "21st digital Wordpress helper functions",
+    "type": "mu-pplugin",
+    "authors": [
+        {
+            "name": "Steffen Rüther",
+            "email": "steffen@21st.digital"
+        }
+    ],
+    "require": {
+        "php": ">=7"
+    },
+    "autoload": {
+        "psr-0": {
+            "TFD": "src/"
+        }
+    }
+}
