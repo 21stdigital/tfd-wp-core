@@ -3,6 +3,7 @@
     "description": "21st digital Wordpress helper functions",
     "type": "wordpress-muplugin",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Steffen Rüther",
