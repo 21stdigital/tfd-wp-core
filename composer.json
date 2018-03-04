@@ -1,7 +1,8 @@
 {
     "name": "tfd/wp-helper",
     "description": "21st digital Wordpress helper functions",
-    "type": "mu-pplugin",
+    "type": "wordpress-muplugin",
+    "license": "MIT",
     "authors": [
         {
             "name": "Steffen Rüther",
